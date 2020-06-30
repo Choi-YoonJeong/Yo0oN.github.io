@@ -3,8 +3,8 @@ layout: post
 title: Network. Web과 WAS?
 modified: 2020-06-30
 author: Yo0oN
-categories: Network. Web과 Was
-tags: [Network]
+categories: [Network, Web]
+tags: [Network, web]
 comments: true
 published : true
 ---
@@ -38,11 +38,11 @@ published : true
 
 마이페이지는 나만이 볼 수 있고, 사용자에 따라 다른 화면을 보여주는 동적페이지이다.
 
-![텀블벅](/images/posts/Network/01webWAS/webwas01.jpg "텀블벅 마이페이지")
+![텀블벅](/images/posts/Network/01.webWAS/webwas01.jpg "텀블벅 마이페이지")
 
 그러면 개발자도구나 소스보기를 이용하여 이 화면이 어떻게 작성되었는지, 어떤 코드가 이 페이지의 HTML들을 만들어 주고 있는지 살펴보자.
 
-![텀블벅](/images/posts/Network/01webWAS/webwas02.jpg "텀블벅 마이페이지2")
+![텀블벅](/images/posts/Network/01.webWAS/webwas02.jpg "텀블벅 마이페이지2")
 
 사진에는 초반부분만 있지만 아래의 다른 부분을 보아도 HTML 문장을 만들어 주는 코드는 보이지 않는다.
 
@@ -64,7 +64,7 @@ HTML을 만들어 주는 코드들은 어디 있을까? WAS는 어떻게 동적�
 
 <br>
 
-![WAS](/images/posts/Network/01webWAS/webwas03.png "WAS 구조")
+![WAS](/images/posts/Network/01.webWAS/webwas03.png "WAS 구조")
 
 사진처럼 WAS 내부에는 웹서버와 웹 컨테이너(=서블릿 컨테이너 = 컨테이너)가 들어있는데
 
