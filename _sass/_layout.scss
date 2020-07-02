@@ -193,7 +193,7 @@
 
 #markdown-toc{
   float: right;
-  width:50%;
+  width:100%;
   background:#f4f7f8;
   padding:20px 15px;
   li{
@@ -204,7 +204,7 @@
 }
 
 #markdown-toc:before{
-  content:"Table of Contents";
+  content:"목차";
   font-weight: 700;
   padding-left:10px;
   border-bottom:5px solid $grey-color-light !important;
