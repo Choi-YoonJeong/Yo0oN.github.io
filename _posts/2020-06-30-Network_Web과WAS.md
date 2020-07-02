@@ -38,7 +38,7 @@ published : true
 
 마이페이지는 나만이 볼 수 있고, 사용자에 따라 다른 화면을 보여주는 동적페이지이다.
 
-![텀블벅](/images/posts/Network/01.webWAS/webwas01.jpg "텀블벅 마이페이지"){.center-align}
+![텀블벅](/images/posts/Network/01.webWAS/webwas01.jpg "텀블벅 마이페이지"){:.align-center}
 
 그러면 개발자도구나 소스보기를 이용하여 이 화면이 어떻게 작성되었는지, 어떤 코드가 이 페이지의 HTML들을 만들어 주고 있는지 살펴보자.
 
@@ -64,7 +64,7 @@ HTML을 만들어 주는 코드들은 어디 있을까? WAS는 어떻게 동적�
 
 <br>
 
-![WAS](/images/posts/Network/01.webWAS/webwas03.png "WAS 구조"){.center-align, :img}
+![WAS](/images/posts/Network/01.webWAS/webwas03.png "WAS 구조"){:.align-center}
 
 사진처럼 WAS 내부에는 웹서버와 웹 컨테이너(=서블릿 컨테이너 = 컨테이너)가 들어있는데
 
