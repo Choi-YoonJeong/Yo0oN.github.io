@@ -2,7 +2,8 @@
 layout: page
 title: About
 comments: yes
-permalink: /about/
+#permalink: /about/
+permalink: /
 ---
 
 
