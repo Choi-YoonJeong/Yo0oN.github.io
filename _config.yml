@@ -184,11 +184,11 @@ locales:
 
 ### Build settings
 #홈 
-#markdown: kramdown
-#highlighter: pygments
-#kramdown:
-        #input: GFM
-        #syntax_highlighter: rouge
-#plugins: [jekyll-paginate]
-#paginate: 3 # 메인페이지에서 몇개의 글을 볼 수 있는가?
-#excerpt_separator: <!-- more -->
+markdown: kramdown
+highlighter: pygments
+kramdown:
+        input: GFM
+        syntax_highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 1 # 메인페이지에서 몇개의 글을 볼 수 있는가?
+excerpt_separator: <!-- more -->
