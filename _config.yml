@@ -172,7 +172,7 @@ locales:
       Subscribe: "Langganan"
 
 ### your Blogroll info, only name can shown on the page.
-# 다른 블록에 대한 
+# 다른 블로그에 대한 부분
 # Blogroll:
 #       - name: Yo0oN
 #         href: https://yo0on.github.io/
@@ -183,6 +183,7 @@ locales:
 
 
 ### Build settings
+#홈 
 #markdown: kramdown
 #highlighter: pygments
 #kramdown:
