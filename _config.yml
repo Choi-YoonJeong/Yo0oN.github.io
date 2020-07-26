@@ -173,10 +173,10 @@ locales:
 
 ### your Blogroll info, only name can shown on the page.
 # 다른 블로그에 대한 부분
-# Blogroll:
-#       - name: Yo0oN
-#         href: https://yo0on.github.io/
-#         title: Another Jekyll blog theme
+Blogroll:
+       - name: Yo0oN's Algorithm
+         href: https://www.notion.so/4codingtest/604176ef27ee40ecb8b1872582f4fa34
+         title: 알고리즘 문제풀이
 #       - name: Yo0oN's website
 #         href: https://yo0on.github.io/
 #         title: Lijia Yu's website
